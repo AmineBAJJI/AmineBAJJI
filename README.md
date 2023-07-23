@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 # Hi, I'm Amine Bajji 💻
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=CS+Student;Junior+Back+End+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
