@@ -1,23 +1,4 @@
-
-
-<!--
-**AmineBAJJI/AmineBAJJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineBAJJI&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBAJJI&layout=compact&theme=radical)
-
 # Hi, I'm Amine Bajji 💻
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=CS+Student;Junior+Back+End+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=CS+Student;Junior+Back+End+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+I am Amine, a Computer Science student and a Junior Back-End Developer with a passion for competitive programming and software design. 
