@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineBAJJI&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBAJJI&layout=compact&theme=radical)
