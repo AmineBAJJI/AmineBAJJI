@@ -4,4 +4,4 @@
 Computer Science student, Junior Back-End Developer with a passion for competitive programming and software design. 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,php,laravel,spring,graphql,react,next,html,css,tailwind,bootstrap,postgres,mysql,docker,kubernetes,git,linux&theme=light)
+![skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,php,laravel,spring,graphql,react,next,html,css,tailwind,bootstrap,postgres,mysql,docker,kubernetes,git,linux,postman&theme=light)
